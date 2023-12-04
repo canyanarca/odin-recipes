@@ -1,0 +1,1 @@
+This is the beginning project of The Odin Project.
